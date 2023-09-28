@@ -1,2 +1,4 @@
 # Control_Simulation
- This project allows to simulate control blocks based in BlockSim technology
+ This project simulates control blocks based in BlockSim technology
+
+![Control simulation](./Control_simulation.png)
